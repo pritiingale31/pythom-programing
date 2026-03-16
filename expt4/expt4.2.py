@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar 16 04:45:49 2026
+
+@author: User
+"""
+1
+
+"""
+Created on Mon Mar  2 15:28:08 2026
+
+@author: Priti
+
+"""
+# Take input from the user
+string = input("Enter a string: ")
+
+# Reverse the string using slicing
+reversed_string = string[::-1]
+
+# Print the result
+print("Reversed string:", reversed_string)
