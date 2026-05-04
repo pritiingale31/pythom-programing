@@ -1,0 +1,12 @@
+# Program to display personal details
+
+# Defining variables
+name = "Your Full Name"
+address = "123, Street Name, City, State"
+contact_number = "+91 98765 43210"
+
+# Printing the details
+print("--- Personal Details ---")
+print(f"Name:           {name}")
+print(f"Address:        {address}")
+print(f"Contact Number: {contact_number}")
